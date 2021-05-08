@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/football_fixture" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tes/ilkDeneme" vcs="Git" />
   </component>
